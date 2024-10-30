@@ -1,0 +1,26 @@
+Mid-1 imp questions.[DID]
+Unit-1
+Usability goals and measures.
+Universal usability and why it is important.
+Norman theory.
+Principles.
+Guidelines of user interface with examples.
+Interface and its goals.
+
+
+Unit-2
+Direct manipulation with an example.
+Organizational support for design.
+Iterative design process for interactive design.
+2D  and 3D interfaces.
+AR Vs VR.
+Design process.
+Legal issues.
+Design frame and design tools.
+
+
+Unit-3
+Audio menu.
+Goal of menu selections and the types of menus.
+Dialogue box.
+Content organisation small displace.
